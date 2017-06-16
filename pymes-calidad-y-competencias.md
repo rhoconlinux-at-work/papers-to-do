@@ -8,13 +8,37 @@
 
 This file file serves as your book's preface, a great place to describe your book's content and ideas.
 
-### Antecedentes
+### Elementos centrales de la discusión
 
 This file file serves as your book's preface, a great place to describe your book's content and ideas.
 
-### Análisis del caso
+* [ ] Las grandes discusiones conceptuales
+  * [ ] La visión neoclásica
+  * [ ] Nelson
+  * [ ] Nonaka
+  * [ ] Teece
+
+  * [ ] Simon
+  * [ ] La visión sistémica y evolutiva
+* [ ] Las competencias y la gestión de la calidad
+  * [ ] Competencias endógenas
+  * [ ] Organización industrial y rutinas
+  * [ ] El rol de las normas y caracterización
+
+### Hacia un esquema integral de pensamiento
 
 This file file serves as your book's preface, a great place to describe your book's content and ideas.
+
+* [ ] El entorno neoclásico de las firmas
+* [ ] El ecosistema de interacción
+* [ ] La información limitada y la construcción de conocimiento
+* [ ] La periferia de la periferia 
+* [ ] El tamaño importa \(firmas\)
+* [ ] El tamaño importa \(contexto\)
+* [ ] El ciclo de vida de las firmas, el producto
+* [ ] Los encadenamientos productivos
+* [ ] La articulación en CGV: umbral mínimo
+* [ ] Desempeño, productividad, estrategia
 
 ### Resultados
 
@@ -30,21 +54,16 @@ This file file serves as your book's preface, a great place to describe your boo
 
 ---
 
-
-
-  
-		@page { margin: 2cm }  
-		p { margin-bottom: 0.25cm; direction: ltr; line-height: 120%; text-align: left; orphans: 2; widows: 2 }  
-		p.western { font-family: "Liberation Serif", serif; font-size: 12pt; so-language: en-GB }  
-		p.cjk { font-family: "Tahoma"; font-size: 12pt; so-language: zh-CN }  
-		p.ctl { font-family: "FreeSans"; font-size: 12pt; so-language: hi-IN }  
-		a.sdfootnoteanc { font-size: 57% }  
-	
+```
+    @page { margin: 2cm }  
+    p { margin-bottom: 0.25cm; direction: ltr; line-height: 120%; text-align: left; orphans: 2; widows: 2 }  
+    p.western { font-family: "Liberation Serif", serif; font-size: 12pt; so-language: en-GB }  
+    p.cjk { font-family: "Tahoma"; font-size: 12pt; so-language: zh-CN }  
+    p.ctl { font-family: "FreeSans"; font-size: 12pt; so-language: hi-IN }  
+    a.sdfootnoteanc { font-size: 57% }  
+```
 
 MARCO TEÓRICO. MODIFICADO EN EL MARCO DE TALLER II.Lo que esta con azul es lo recientemente incorporado.El resto es control de cambio a la versión del taller de tesis I
-
-  
-
 
 LO DIVIDIRÍA EN TRES:
 
@@ -53,9 +72,6 @@ LO DIVIDIRÍA EN TRES:
 2. CAPACIDADES AL INTERIOR DE LAS FIRMAS
 
 3. DESARROLLO DE CAPACIDADES Y POLÍTICAS PÚBLICAS
-
-  
-
 
 Extendidos desarrollos teóricos han venido señalando que la formación de capacidades al interior de las empresas crea ventajas dinámicas asociadas a un proceso acumulativo de aprendizaje, transferencia e internalización que flexibiliza y potencia el desempeño de las firmas \(Rosenthal, 1960; Nelson, 1991; Nonaka y Takeuchi, 1995\) y con ello las capacidades de desarrollo de un determinado territorio.
 
@@ -113,26 +129,11 @@ Lo que hasta aquí ha sido expuesto debe ser leído en el marco de una perspecti
 
 En este marco de complejidad, y reconociendo la importancia de este tipo de políticas públicas, resulta necesario evaluar sus resultados. No como un paso ex-post orientado, sobre todo, a rendición de cuentas y control de eficiencia y eficacia, sino reconociendo que la evaluación de las políticas es un proceso formativo que se constituye en una parte integral de todas las fases del desarrollo de las mismas, y que se encuentra por tanto ligado con el proceso de aprendizaje de políticas[3](#sdfootnote3sym) \(policy learning\) \(Aranguren et. al., 2013\).
 
-  
-
-
-  
-
-
 RELEER mejorar la conexión entre párrafos/ideas. Mejorar la justificación en el uso de conceptos y relación entre los autores.Falta debate entre autores.
 
 Buscar las críticas a los conceptos abordados.
 
-  
-
-
-  
-
-
 JUSTIFICACIÓN DE LA LITERATURA QUE SE ELIGIÓ. DECIR PORQUE LA LITERATURA NEOCLÁSICA. NO PERMITE EXPLICAR. FIRMAS DIFERENTES.Favaro Villegas, Lopez y Katz \(ver el marco de desarrollo\).
-
-  
-
 
 Favaro Villegas.La firma es el elemento central que introduce innovaciones en el mercado y por lo tanto, impulsa el cambio tecnológico y sus implicancias. Las empresas son actores determinantes en una economía de mercado, dado que organizan los principales procesos productivos y generan la mayor parte del empleo y de los productos, formando y transformando recursos, y aplicando y renovando todo tipo de tecnologías.En la teoría de los precios, la empresa se reduce básicamente a una función de producción. El comportamiento de una empresa no es más que la aplicación de diferentes técnicas de maximización. No hay interés en conocer lo que las empresas hacen realmente y por qué lo hacen. De acuerdo con Nelson \(1994\), la explicación formal de una empresa en la teoría neoclásica no es más que la receta de una sopa\(“boullabaisse”\)que explica qué ingredientes \(capital y trabajo\) se deben combinar en una olla y cómo cocinarlos \(función de producción\) para servirla en un plato \(producto\).
 
@@ -162,27 +163,15 @@ Los procesos de aprendizaje nunca son automáticos, pues son afectados por un bu
 
 En consecuencia, los procesos de aprendizaje soncondición imprescindible en el proceso de transferencia de la innovación tecnológica. Las tecnologías son tácitas y sus principios subyacentes necesitan de conocimiento tecnológico, habilidad, esfuerzo e inversión para su comprensión por parte de la organización. La mera exposición de las organizaciones al conocimiento externo pertinente resulta insuficiente si no se realiza un esfuerzo por internalizarlo. Esto es,cuanto mayor sea la base de conocimientos existente y la intensidad del esfuerzo, más rápido y más a fondo será el proceso de aprendizaje tecnológico \(Kim, 2001\).
 
-  
-
-
 Lopez. En la tradición neoclásica, la firma es -al igual que el cambio tecnológico- una"caja negra" dotada de un objetivo invariante: maximizar beneficios. En esta perspectiva, se omite tanto el análisis de la firma como una organización -con estructuras, reglas, habilidades y estrategias diferenciadas- como también su dimensión institucional -por referencia a su inclusión en contextos sociales, históricos, legales y políticos específicos-. De hecho, esta doble omisión se funda en la percepción de que tales análisis resultan irrelevantes para la teoría económica. Contra esta visión, el evolucionismo afirmaráno sólo que las firmas son distintas, sino que, además, esas diferencias importan \(Nelson, 1991\).
 
 Obviamente,la noción de función de producción aparece severamente cuestionada. No se puede asumir que las firmas -y menos aún los países- acceden a una función de producción común, ya que la imitación no es trivial. Más aún, las firmas no operan en una función de producción completa sino en algunos, o en un punto específico del set de combinaciones tecnológicas; su progreso técnico está localizado alrededor de ése o esos puntos. Los procesos de búsqueda no se realizan a través de la exploración de un mapa nocional completo de posibilidades tecnológicas, sino que las firmas intentan mejorar y diversificar su tecnología buscando en las zonas que les permitan usar y construir sobre su base de conocimiento.La distinción neoclásica entre substitución de factores y cambio técnico se desvanece, dado que para establecer nuevas combinaciones de insumos es necesario dedicar recursos específicos al descubrimiento de nuevas técnicas \(Rosenberg, 1976\).LA PRIMERA PARTE ES TEXTUAL EN FAVARO Y VILLEGAS. DE QUIEN SERÁ EL PLAGIO?
 
-  
-
-
 PROFUNDIZAR COHEN Y LEVINTHAL Y TEECE Y PISANO.Tesis de Verónica Robert, Zambrano; Garzón; Espinosa
-
-  
-
 
 Tesis de Robert \(Cap. 4\).La complementariedad entre fuentes internas y externas en la generación de conocimiento implica que el cambio tecnológico no se determine enteramente por los esfuerzos de innovación de las firmas tomadas en forma individual. Es decir, las fuentes del conocimiento tecnológico y organizacional que les permiten a las firmas mejorar las condiciones productivas, no pueden ser nunca exclusivamente internas. Las firmas acceden a través de diferentes formas de interacción y sobre la base de sus capacidades de absorción \(Cohen y Levinthal, 1990\), a información y conocimiento específico sobre las características tecnológicas y organizacionales de otras firmas de características similares, es decir de firmas que comparten un mismo grupo de referencia o una misma población definida por su localización. En este contexto, las posibilidades de mejorar la performance productiva de las firmas a través de cambios en los procesos productivos y organizacionales, estará afectada por los esfuerzos que realicen las empresas de búsqueda interna y externa, y el grado de desarrollo de sus capacidades de absorción. \(externalidades de conocimiento condicionadas al desarrollo de capacidades de absorción y vinculaciones\).
 
 Noción de capacidad de absorción de Cohen y Levinthal \(1990\), definida como la habilidad de las firmas de reconocer conocimiento externo, interpretarlo y aplicarlo,
-
-  
-
 
 Zambrano\(de Nelson a Teece y Pisano con capacidades dinámicas\).Las capacidades empresariales corresponden a aquellasrutinas de tipo comportamentalque definen lo que las empresas realizan para desarrollar una tarea específica \(NELSON; WINTER, 1982\). Esto define lo que la empresa sabe hacer y cómo lo debe hacer. Sin embargo,el carácter recurrente de estas capacidades, puede generar estancamientos en el desarrollo estratégico competitivo de las organizaciones, ya que al generar recurrencia, se condiciona a que el aprendizaje se detenga \(METCALFE, 1995\), lo cual limita la generación de nuevas capacidades al disminuir el dinamismo en la producción, reproducción y reconfiguración de las rutinas que las conforman\(TEECE; PISANO; SHUEN, 1997\).**REVISAR SI PUEDE INCLUIRSE EN LAS CRÍTICAS MENCIONADAS EN INFORME DE AVANCE II**
 
@@ -204,9 +193,6 @@ No es suficiente que la empresa haya efectuado una adquisición para que se cons
 
 Importancia de las capacidades dinámicas en una organización y en su utilidad práctica para la generación de nuevas capacidades generadoras de competencias organizacionales.Las capacidades dinámicas son inherentes a la trayectoria histórica de la organizacióny son fundamentales en donde hay ciclos dinámicos de los mercados; esto es, su utilidad surge cuando las organizaciones enfrentan ambientes permanentes de cambio.Sin capacidades dinámicas las organizaciones no tendrían estructuras eficaces para acciones colectivas como mecanismo para crear nuevas capacidades y para incorporar estas capacidades en nuevos productos y procesos; en otras palabras no podrían innovar.
 
-  
-
-
 Garzón \(estudio de caso con capacidades de absorción\).El concepto de capacidades de absorción lo introducen entre 1989-1990, los investigadores Cohen y Levinthal \(1989\), que se ha convertido en un tema de investigación importante, aunque se han publicado un sinnúmero de artículos científicos, la investigación no ha sido acumulativa. Existen vacíos importantes en ella derivados, principalmente, de que la literatura ha adoptadoel conceptosin cuestionarse su alcance y relación con otros constructos yfactores con los que está muy vinculado.
 
 Es importante tener en cuenta que la aparición del concepto de capacidades de absorción concuerda con el progreso de la visión basada en los recursos y las capacidades y de la visión basada en el conocimiento, de esta manera, la capacidad dinámica de absorción es una capacidad estratégica, valiosa, y diferente para cada empresa \(Laneet al., 2002\).
@@ -215,16 +201,13 @@ Conentornos, tecnologíasy reglas que rigen el mercado,sujetos a rápidos e impo
 
 El estudio de la capacidad dinámica de absorción aplicado a las organizaciones, se le debe aCohen y Levinthal \(1989\) quienes definieron la capacidad dinámica de absorción como la capacidad de aprender conocimiento externo a través de los procesos de identificación, asimilación y explotación del mismo. En este sentido tridimensional.
 
- “Habilidad de la empresa de identificar, asimilar y explotar conocimiento del entorno” \(Cohen y Levinthal, 1989\). “Habilidad para reconocer el valor de la nueva información externa, asimilarla, y aplicarla con fines comerciales” \(Cohen y Levinthal, 1990\)
+“Habilidad de la empresa de identificar, asimilar y explotar conocimiento del entorno” \(Cohen y Levinthal, 1989\). “Habilidad para reconocer el valor de la nueva información externa, asimilarla, y aplicarla con fines comerciales” \(Cohen y Levinthal, 1990\)
 
 Capacidad de absorción como altamente dependiente del nivel de conocimiento previo, el aprendizaje es acumulativo y el rendimiento en el aprendizaje es mayor cuando el conocimiento a incorporar está relacionado con el conocimiento preexistente \(Cohen y Levinthal, 1990\).
 
 Para ganar el potencial valor agregado del conocimiento organizacional no es suficiente con adoptar y explotar los procesos existentes, la tarea de asimilación de conocimiento debería actualizar la base de conocimiento de forma continua. Para Nelson y Winter \(1982\) este proceso de asimilación está altamente influenciado por el conocimiento tácito de la empresa, basado en la experiencia, el know-how y otros valores similares que lo distinguen del conocimiento explícito o codificado.
 
 Las capacidades de absorción son específicas de cada empresa, confirmando lo propuesto por Cohen y Levinthal, \(1990\).
-
-  
-
 
 Espinosa y otros \(conexiones entre conocimiento existente y capacidades de absorción\).La importancia del conocimiento para una empresa ha sido largamente reconocido desde hace casi dos décadas \(Nonaka, 1991\).La adquisición del conocimiento organizativo no es fácilmente transferible porque el conocimiento es difícil de “despegar” del emisor \(Von Hippel, 1994\) y además se requiere que el receptor tenga “capacidad de absorción” \(Cohen y Levinthal, 1990\). Esto sugiere que la capacidad de absorción —entendida como la habilidad para reconocer nuevos conocimientos, asimilarlos y aplicarlos para fines comerciales \(Cohen y Levinthal, 1990\)— es un concepto cuyo reconocimiento como una capacidad estratégica es vital para el éxito de las organizaciones.
 
@@ -238,21 +221,9 @@ En el caso de los conocimientos previos \(Cohen y Levinthal, 1990\), por ejemplo
 
 Cohen y Levinthal \(1990\) afirman que la capacidad de absorción se construye sobre la inversión previa en ella, es decir, la capacidad de absorción se desarrolla acumulativamente.
 
-  
-
-
 Ver marcadores del**libro de Yoguel**PARA SUMAR COSAS. Ver cuaderno algunos apuntes de texto sin autor
 
-  
-
-
-  
-
-
 **ES NECESARIO DEFINIR CAPACIDADES TECNOLÓGICAS Y ORGANIZACIONALES???? Se mencionan muchas veces.**
-
-  
-
 
 Linsu Kim\(son párrafos textuales. En caso de usar chequear la página. El texto no puede marcarse\).La capacidad tecnológica hace referencia a la aptitud de hacer un uso eficaz del conocimiento tecnológico en la producción, la ingeniería y la innovación, con el fin de mantener la competitividad, tanto en precio como en calidad. Tal capacidad permite a una empresa asimilar, emplear, adaptar y modificar las tecnologías existentes.
 
@@ -266,12 +237,6 @@ Las crisis provocadas por el establecimiento de objetivos ambiciosos es una de l
 
 El gobierno puede utilizar una serie de instrumentos políticos para influir en el proceso dinámico de aprendizaje tecnológico en el plano empresarial. Así, puede invertir para desarrollar los recursos humanos que emprendan actividades tecnológicas. También pueden hacer uso de las políticas industriales y de investigación y desarrollo \(I y D\) para crear una demanda de aprendizaje tecnológico y reforzar la oferta de capacidad tecnológica. No hay que olvidar los incentivos financieros y fiscales, que facilitan el proceso interactivo entre la demanda y la oferta de aprendizaje tecnológico
 
-  
-
-
-  
-
-
 CRÍTICAS A ESTOS CONCEPTOS. LA CRÍTICA LATINOAMERICANA.**DeINFORME II**\(ver si a las críticas se le sumó lo de rutinas y metlcafe está en Zambrano más arriba\):
 
 Analizar las críticas resultantes e introducir principalmente aquellas provenientes de aportes latinoamericanos \(Yoguel; Yoguel y Robert; Yoguel et al; Rivera Ríos; Judith Sutz\). En particular, se toma de estos autores la propuesta de utilización de un marco teórico evolucionista ampliado, tomando como eje la complejidad y las capacidades de absorción y conectividad de los agentes, con énfasis en los feedback entre ellos, para potenciar los procesos de apropiación, cambio estructural y destrucción creativa. Desde su visión, la adopción de este enfoque permite diferenciar entre un tratamiento evolucionista básico \(Nelson y Winter, 1982\), y los avances posteriores unificados por la teoría del aprendizaje organizacional.
@@ -284,31 +249,13 @@ En segundo lugar, critican el modelo evolucionista básico al proponer la imagen
 
 Así se propone transcender el modelo evolucionista básico para llegar a la noción de sistema complejo, entendiendo la capacidad del sistema económico de auto organizarse a partir del aprendizaje. En esta línea, el abordaje de sistemas complejos nos permite pasar de pensar la dinámica en términos de rutinas organizacionales a interpretarla en términos de capacidades de absorción y conectividad.
 
-  
-
-
 Ver**Gil Feixa pag 22**en verde,**Lopez pág 11**en verde \(cuidado la crítica ahistórica. En rosa de Gil Fleixa habla de dos revisiones del trabajo original que incluye precisamente estas cuestiones\)
-
-  
-
 
 **Yoguel, Robert**Dar lugar a la introducción de la complejidad como crítica. Los feed back también. La retroalimentación. Estas últimas cosas creo pueden estar latentes en el evolucionismo pero no tan explícitos. Como que a pesar de lo dicho se debe dar una vuelta más para la contemplación de relaciones ampliadas y entornos complejos. De manera explícita y consiente de su importancia a la hora de afectar el desempeño de las firmas y sus posibilidad de desarrollo.
 
-  
-
-
 **Yoguel y Rivera Rios**también. Complejidad \(verde\) y algunas críticas \(rosa\) que no se si llego a comprender muy bien.**Pag 8**super claridad en la explicación del marco conceptual. Hasta dónde sumar?
 
-  
-
-
 **CON SISTEMAS COMPLEJOS Y CAPACIDAD DE ABSORCIÓN NO PUEDO NO DECIR NADA RESPECTO A LA DEPENDENCIA DE LOS SENDEROS \(PATH DEPENDENCE\). ESTA IMPLICITO EN EL RECORRIDO \(VER LA PARTE INSERTA DE KATZ Y PEREZ EN INFORME III. PERO TIENE QUE MENCIONARSE**
-
-  
-
-
-  
-
 
 En este contexto, la tesis se inscribe en un marco teórico de raíz ……
 
@@ -316,19 +263,7 @@ En este contexto, la tesis se inscribe en un marco teórico de raíz ……
 
 VER ESTUDIO DE SOFTWARECOMO VA PLANTEANDO OBJETIVOS e hipótesis. Si asumimos el marco teórico de Yoguel es importante decir algo del marco institucional….el contexto importa. Ver PREMISAS TEÓRICAS.VER DE ACÁ TAMBIEN EL APARTADO METODOLÓGICO
 
-  
-
-
-  
-
-
-  
-
-
 PARA DESARROLLO \(**ver texto resultante de informe de avance III**\)
-
-  
-
 
 Jorge KatzSin hacer mención al marco teórico habla de análisis de capacidades en firmas en países en desarrollo. El análisis es histórico-descriptivo del proceso de desarrollo y en ese marco el hincapié esta puesto en el aprendizaje tecnológico y el desarrollo de capacidades locales de ingeniería como explicación central del comportamiento evolutivo de las firmas en el tiempo. El desarrollo se entiende como un proceso de transformación estructural donde la interdependencia entre lo económico, lo tecnológico y lo institucional ocurre a lo largo de “fases” de construcción y destrucción de activos tecnológicos, recursos humanos e instituciones dando lugar a la formación de capacidades sociales.
 
@@ -350,9 +285,6 @@ En el caso de los países en desarrollo, creer que pueden lograrse avances signi
 
 Es en este sentido puntos de contacto con el análisis de complejidad. Complejidad y desarrollo.
 
-  
-
-
 Amartya SenAdemás de los datos estadísticos, hemos de estudiar detenidamente los procesos causales que intervienen en el crecimiento y el desarrollo económicos. La política y las condiciones particulares que contribuyeron al éxito de las economías.
 
 Amplia el concepto de desarrollo. Su eje esta en la necesidad de incorporar la valoración explícita de la población, entendida mediante la ampliación de sus capacidades y libertades \(derechos civilies y políticos\). Ampliación de las capacidades del ser humano para elegir libremente.
@@ -361,27 +293,9 @@ La ampliación de la capacidad del ser humano tiene importancia directa e indire
 
 El alcance de este planteamiento no se limita a una fundamentación teórica del desarrollo; sus connotaciones prácticas han de plasmarse en el terreno de la política estatal.\(pág 89\).
 
-  
-
-
-  
-
-
 PARA LA PARTE DE POLITICA PÚBLICA
 
 A la luz de estos conceptos puede ser analizado el programa Sello de Calidad Certificada – Fin del Mundo implementado en la provincia de Tierra del Fuego en el período 2011-2015. Dicha política se inscribe en la “segunda generación” \(Madoery 2005\) de políticas de desarrollo, revistiendo el carácter de una cuestión socialmente problematizada en la cual el estado provincial \(tomando esta política como unidad de análisis\) intervino y tomó partido. Oszlak y O\`Donnell \(1981\) argumentan que una toma de posición activa del Estado puede implicar el inicio y legitimación de una cuestión \(como en el caso analizado\) así como acelerar, moderar y/o bloquear ciertas tendencias.
-
-  
-
-
-  
-
-
-  
-
-
-  
-
 
 BIBLIOGRAFÍA ADICIONAL TRABAJADA:
 
@@ -417,9 +331,6 @@ PARA EVOLUCIONISMO AMPLIADO. COMPLEJIDAD Y OTROS.No olvidar sumar los que están
 
 * ESTUDIOS DE CASO: COMO SOFTWARE, COMPLEJOS PRODUCTIVOS, ENCUESTA NACIONAL DE EMPLEO E INNOVACIÓN
 
-  
-
-
 PARA DESARROLLO
 
 * Linsu Kim, 2000, La dinámica del aprendizaje tecnológico en la industrialización..
@@ -438,9 +349,6 @@ PARA DESARROLLO
 
 * Jorge Katz 2008 “Una nueva visita a la teoria del desarrollo económico”, CEPAL, Santiago de Chile, Enero 2008
 
-  
-
-
 DIEZ, José y GUTIERREZ, Ricardo \(Comp/s\). \(2014\). Cooperación, innovación y Territorio: estudios sobre el Sudoeste Bonaerense. Bahía Blanca: Ediuns, 269 páginas.
 
 El primero de los artículos compilados es el de Ricardo Gutiérrez, titulado: “Desarrollo local territorial: política y economía” quien en veintidós páginas, presenta un marco general para los estudios de caso que vienen a continuación. El autor analiza los fundamentos que rigen la denominada corriente de desarrollo económico local y su aplicabilidad en países periféricos.
@@ -452,11 +360,4 @@ En tercer lugar, se presenta la obra de María Verónica Alderete y de José Die
 [2](#sdfootnote2anc)Los autores identifican cuatro formas de conversión del conocimiento, que dan como resultado la creación de diferente tipo de conocimiento: Socialización \(de tácito a tácito\) que produce conocimiento armonizado; Exteriorización \(de tácito a explícito\) que produce conocimiento conceptual; Combinación \(de explícito a explícito\) que produce conocimiento sistémico; e Internalización \(de explícito a tácito\) que produce conocimiento operacional.
 
 [3](#sdfootnote3anc)“El aprendizaje en el proceso de las políticas es, por lo tanto, un proceso de «aprender haciendo» \(learning by doing\) y de «aprender interactuando» \(learning by interacting\), y la inteligencia política es el resultado de combinar estos tipos de aprendizaje”. Sin embargo, “el aprendizaje de políticas permanece como un concepto relativamente vago que requiere un mayor aterrizaje en la práctica” \(Aranguren y otros 2013: 159\).
-
-  
-
-
-
-
-
 
