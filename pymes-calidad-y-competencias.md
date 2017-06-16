@@ -16,6 +16,8 @@ El texto se articula de la siguiente manera: en la próxima sección se abordar�
 
 ### Elementos centrales de la discusión: de la teoría neoclásica al enfoque de capacidades endógenas
 
+
+
 * [x] Las grandes discusiones conceptuales
 
   * [ ] La visión neoclásica
