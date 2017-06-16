@@ -28,6 +28,7 @@ This file file serves as your book's preface, a great place to describe your boo
   * [ ] Competencias endógenas
   * [ ] Organización industrial y rutinas
   * [ ] El rol de las normas y caracterización
+  * [ ] Learning by interaction: absorptive capacity, cognitive distance and governance
 
 ### Hacia un esquema integral de pensamiento
 
@@ -45,6 +46,7 @@ This file file serves as your book's preface, a great place to describe your boo
 * [ ] Desempeño, productividad, estrategia
 * [ ] capacidades de aprendizaje como rutinas. el rol de la gestion de la calidad.
 * [ ] colaboración, conectividad y productividad
+* [ ] inercias rigideces y dificultad de cambio: calidad aplicacion en firmas nuevas y firmas viejas
 
 ### Reflexiones y nuevos elementos
 
