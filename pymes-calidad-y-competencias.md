@@ -1,9 +1,5 @@
 # PyMEs, Competencias dinámicas y gestión de la calidad: Una revisión conceptual
 
-### 
-
-### 
-
 ### Introducción
 
 Este artículo tiene por objetivo realizar un recorrido por los principales aportes y discusiones en torno al rol de la gestión de la calidad en las organizaciones y sistemas productivos. A nivel conceptual, el enfoque se centrará en la relación existente entre las competencias tecnológicas de las firmas, sus capacidades de aprendizaje y de innovación y el papel que las políticas y prácticas de calidad organizacionales juegan en su fomento. En particular, se prestará especial atención a algunos rasgos estructurales de las firmas que han, usualmente, sido considerados al momento de diferenciar su nivel de competencias y capacidad innovativa, entre los que se destacan el tamaño y el sector de actividad de las mismas.
@@ -16,11 +12,15 @@ El texto se articula de la siguiente manera: en la próxima sección se abordar�
 
 ### Elementos centrales de la discusión: de la teoría neoclásica al enfoque de capacidades endógenas
 
-El punto de partida de la discusión se centra en una breve recapitulación de la teoría neoclásica, de su perspectiva en torno a la firma y de los mecanismos que operan como determinantes el desempeño productivo.  
+Uno de los puntos de partida de la discusión se centra en realizar una breve recapitulación de la teoría neoclásica, de su perspectiva en torno a la firma, y de los mecanismos que operan como determinantes el desempeño productivo. Dentro de esta visión teórica existen múltiples vertientes, concentrándose sobre las últimas décadas considerables aportes en torno a la forma de conceptualizar \(y formalizar\) las dinámicas empresarias en el marco de la inclusión de muchos de los elementos que se desarrollarán más adelante. Es importante destacar, sin embargo, que el núcleo de esta teoría, y especial algunos de sus supuestos, no se han modificado de forma contundente a lo largo de los años. Esta breve reseña se concentrará en una revisión cronológica que pondrá foco en los aspectos de la teoría neoclásica que desencadenaron aportes alternativos, en especial los relacionados con la teoría evolucionista neoschumpeteriana. 
+
+La teoría neoclásica se centra en dinámicas de equilibrio traccionadas por la figura del mercado, quien encarna el rol de coordinador omnipresente, autogestionado y eficiente de recursos. La coordinación de mercado atravieza todas   
+
+
 
 * [x] Las grandes discusiones conceptuales
 
-  * [ ] La visión neoclásica
+  * [x] La visión neoclásica
   * [ ] Nelson
   * [ ] Nonaka
   * [ ] Teece
