@@ -6,13 +6,17 @@
 
 ### Introducción
 
-Este artículo tiene por objetivo realizar un recorrido por los principales aportes y discusiones en torno al rol de la gestión de la calidad en las organizaciones y sistemas productivos. A nivel conceptual, el enfoque se centrará en la relación existente entre las competencias tecnológicas de las firmas, sus capacidades de aprendizaje y de innovación y el papel que las políticas y prácticas de calidad organizacionales juegan en su fomento. En particular, se prestará especial atención a algunos rasgos estructurales de las firmas que han, usualmente, sido considerados al momento de diferenciar su nivel de competencias y capacidad innovativa, entre los que se destacan el tamaño y el sector de actividad de las mismas. 
+Este artículo tiene por objetivo realizar un recorrido por los principales aportes y discusiones en torno al rol de la gestión de la calidad en las organizaciones y sistemas productivos. A nivel conceptual, el enfoque se centrará en la relación existente entre las competencias tecnológicas de las firmas, sus capacidades de aprendizaje y de innovación y el papel que las políticas y prácticas de calidad organizacionales juegan en su fomento. En particular, se prestará especial atención a algunos rasgos estructurales de las firmas que han, usualmente, sido considerados al momento de diferenciar su nivel de competencias y capacidad innovativa, entre los que se destacan el tamaño y el sector de actividad de las mismas.
 
-capaces de caracterizar a las firmas al rasgo característico de las   
+ La motivación de este trabajo tiene que ver con recapitular los elementos clave de una discusión que tomó protagonismo central dentro del enfoque neoschumpeteriano-evolucionista, en especial de los trabajos que derivaron de los  aportes de Nelson y Winter \(1982\) y de Nelson \(1991\). Se han discutido una gran cantidad de implicancias conceptuales, tanto de los conceptos de competencias tecnológicas y capacidades de absorción, como   
+
+El aporte
+
+El texto se articula de la siguiente manera:
 
 ### Elementos centrales de la discusión
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+
 
 * [ ] Las grandes discusiones conceptuales
 
