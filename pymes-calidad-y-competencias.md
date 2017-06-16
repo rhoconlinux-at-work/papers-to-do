@@ -43,6 +43,8 @@ This file file serves as your book's preface, a great place to describe your boo
 * [ ] Los encadenamientos productivos
 * [ ] La articulación en CGV: umbral mínimo
 * [ ] Desempeño, productividad, estrategia
+* [ ] capacidades de aprendizaje como rutinas. el rol de la gestion de la calidad.
+* [ ] colaboración, conectividad y productividad
 
 ### Reflexiones y nuevos elementos
 
@@ -51,6 +53,13 @@ This file file serves as your book's preface, a great place to describe your boo
 * [ ] Quality differentiation
 * [ ] Contextos en desarrollo y más allá de la I+D
 * [ ] Quality implementation and endogenous capacity: self-selection 
+* [ ] Globalización y CGV: enforcement
+* [ ] ciclo calidad y absorcion
+* [ ] ciclo calidad y eficiencia
+* [ ] ciclo calidad y conectividad
+* [ ] capacidades de absorción potenciales y efectivas
+* [ ] capacidades de absorción oganización y calidad
+* [ ] ojo: capacidades horizontales y gestión de calidad especifica
 
 ### Conclusiones
 
