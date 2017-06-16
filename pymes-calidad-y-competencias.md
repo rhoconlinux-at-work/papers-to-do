@@ -13,13 +13,16 @@ This file file serves as your book's preface, a great place to describe your boo
 This file file serves as your book's preface, a great place to describe your book's content and ideas.
 
 * [ ] Las grandes discusiones conceptuales
+
   * [ ] La visión neoclásica
   * [ ] Nelson
   * [ ] Nonaka
   * [ ] Teece
 
   * [ ] Simon
+
   * [ ] La visión sistémica y evolutiva
+
 * [ ] Las competencias y la gestión de la calidad
   * [ ] Competencias endógenas
   * [ ] Organización industrial y rutinas
@@ -60,7 +63,7 @@ This file file serves as your book's preface, a great place to describe your boo
     p.western { font-family: "Liberation Serif", serif; font-size: 12pt; so-language: en-GB }  
     p.cjk { font-family: "Tahoma"; font-size: 12pt; so-language: zh-CN }  
     p.ctl { font-family: "FreeSans"; font-size: 12pt; so-language: hi-IN }  
-    a.sdfootnoteanc { font-size: 57% }  
+    a.sdfootnoteanc { font-size: 57% }
 ```
 
 MARCO TEÓRICO. MODIFICADO EN EL MARCO DE TALLER II.Lo que esta con azul es lo recientemente incorporado.El resto es control de cambio a la versión del taller de tesis I
