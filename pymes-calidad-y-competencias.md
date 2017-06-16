@@ -12,9 +12,11 @@ La motivación de este trabajo tiene que ver con la recapitulación y sistematiz
 
 El aporte de este trabajo puede dividirse en dos dimensiones. La primera tiene que ver con la sistematización de los conceptos clave y sus relaciones en un esquema sintético y enfocado hacia sintetizar el rol de la gestión de la calidad en la formación de competencias de las firmas. La segunda está especialmente relacionada con las formas en las que el tamaño de las firmas y su contexto afectan el comportamiento empresarial y las dinámicas de gestión de la calidad.
 
-El texto se articula de la siguiente manera: en la próxima sección se abordarán los elementos centrales que dieron origen a la discusión teórica alrededor del rol de las políticas de gestión de calidad dentro de las firmas y el rol que ellas tienen en el desempeño productivo. 
+El texto se articula de la siguiente manera: en la próxima sección se abordarán los elementos centrales que dieron origen a la discusión teórica alrededor del rol de las políticas de gestión de calidad dentro de las firmas y el rol que ellas tienen en el desempeño productivo.
 
 ### Elementos centrales de la discusión: de la teoría neoclásica al enfoque de capacidades endógenas
+
+
 
 * [ ] Las grandes discusiones conceptuales
 
