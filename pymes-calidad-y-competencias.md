@@ -16,7 +16,7 @@ El texto se articula de la siguiente manera: en la próxima sección se abordar�
 
 ### Elementos centrales de la discusión: de la teoría neoclásica al enfoque de capacidades endógenas
 
-
+El punto de partida de la discusión se centra en una breve recapitulación de la teoría neoclásica, de su perspectiva en torno a la firma y de los mecanismos que operan como determinantes el desempeño productivo.  
 
 * [x] Las grandes discusiones conceptuales
 
