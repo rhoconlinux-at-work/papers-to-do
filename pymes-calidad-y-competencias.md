@@ -45,7 +45,7 @@ This file file serves as your book's preface, a great place to describe your boo
 * [ ] La articulación en CGV: umbral mínimo
 * [ ] Desempeño, productividad, estrategia
 * [ ] capacidades de aprendizaje como rutinas. el rol de la gestion de la calidad.
-* [ ] colaboración, conectividad y productividad
+* [ ] colaboración, conectividad y productividad: capacidades colectivas de giuliani
 * [ ] inercias rigideces y dificultad de cambio: calidad aplicacion en firmas nuevas y firmas viejas
 
 ### Reflexiones y nuevos elementos
