@@ -8,15 +8,13 @@
 
 Este artículo tiene por objetivo realizar un recorrido por los principales aportes y discusiones en torno al rol de la gestión de la calidad en las organizaciones y sistemas productivos. A nivel conceptual, el enfoque se centrará en la relación existente entre las competencias tecnológicas de las firmas, sus capacidades de aprendizaje y de innovación y el papel que las políticas y prácticas de calidad organizacionales juegan en su fomento. En particular, se prestará especial atención a algunos rasgos estructurales de las firmas que han, usualmente, sido considerados al momento de diferenciar su nivel de competencias y capacidad innovativa, entre los que se destacan el tamaño y el sector de actividad de las mismas.
 
- La motivación de este trabajo tiene que ver con recapitular los elementos clave de una discusión que tomó protagonismo central dentro del enfoque neoschumpeteriano-evolucionista, en especial de los trabajos que derivaron de los  aportes de Nelson y Winter \(1982\) y de Nelson \(1991\). Se han discutido una gran cantidad de implicancias conceptuales, tanto de los conceptos de competencias tecnológicas y capacidades de absorción, como   
+La motivación de este trabajo tiene que ver con la recapitulación de los elementos clave de la  discusión que tomó protagonismo central dentro del enfoque neoschumpeteriano-evolucionista, en especial de la línea de  trabajos derivados de los  aportes de Nelson y Winter \(1982\) y de Nelson \(1991\). En este sentido, durante las últimas décadas pueden identificarse una gran cantidad de aportes conceptuales, derivados tanto de las ideas de competencias tecnológicas y capacidades de absorción, como del rol de la gestión de la calidad dentro de las organizaciones, que posicionan el tratamiento de dichas ideas en un lugar protagónico para el estudio de la dinámica innovativa de los sistemas económicos.  
 
 El aporte
 
 El texto se articula de la siguiente manera:
 
 ### Elementos centrales de la discusión
-
-
 
 * [ ] Las grandes discusiones conceptuales
 
