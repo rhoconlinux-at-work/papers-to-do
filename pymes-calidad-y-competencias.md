@@ -24,6 +24,7 @@ This file file serves as your book's preface, a great place to describe your boo
   * [ ] La visión sistémica y evolutiva
 
 * [ ] Las competencias y la gestión de la calidad
+
   * [ ] Competencias endógenas
   * [ ] Organización industrial y rutinas
   * [ ] El rol de las normas y caracterización
@@ -43,9 +44,13 @@ This file file serves as your book's preface, a great place to describe your boo
 * [ ] La articulación en CGV: umbral mínimo
 * [ ] Desempeño, productividad, estrategia
 
-### Resultados
+### Reflexiones y nuevos elementos
 
 This file file serves as your book's preface, a great place to describe your book's content and ideas.
+
+* [ ] Quality differentiation
+* [ ] Contextos en desarrollo y más allá de la I+D
+* [ ] Quality implementation and endogenous capacity: self-selection 
 
 ### Conclusiones
 
