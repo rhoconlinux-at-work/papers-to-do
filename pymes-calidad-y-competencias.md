@@ -47,6 +47,7 @@ This file file serves as your book's preface, a great place to describe your boo
 * [ ] capacidades de aprendizaje como rutinas. el rol de la gestion de la calidad.
 * [ ] colaboración, conectividad y productividad: capacidades colectivas de giuliani
 * [ ] inercias rigideces y dificultad de cambio: calidad aplicacion en firmas nuevas y firmas viejas
+* [ ] regulatory compliance vs competitive advantaje vs costos vs beneficios
 
 ### Reflexiones y nuevos elementos
 
