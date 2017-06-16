@@ -1,4 +1,6 @@
-# Las PyMes y la Gestión de la calidad
+# PyMEs, Competencias dinámicas y gestión de la calidad: Una revisión conceptual
+
+
 
 ### Introducción
 
